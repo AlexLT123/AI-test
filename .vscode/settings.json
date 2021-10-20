@@ -1,0 +1,5 @@
+{
+    "gitea.instanceURL": "http://3.112.212.223/gitea",
+    "gitea.owner": "quant",
+    "gitea.repo": "qt02"
+}
